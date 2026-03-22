@@ -17,4 +17,10 @@
         "expirydate": "30-03-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "Device ID",
+        "key": "KEY",
+        "expirydate": "30-03-2026",
+        "Allowoffline": false
+    },
 ]
