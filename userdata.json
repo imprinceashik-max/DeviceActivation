@@ -15,7 +15,7 @@
         "device_id": "acc18c97a8767104",
         "key": "RAKIB",
         "expirydate": "30-03-2099",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "f31ca3ded9780298",
