@@ -23,4 +23,10 @@
         "expirydate": "30-03-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "2f29274057c5122d",
+        "key": "MADMAX",
+        "expirydate": "28-03-2026",
+        "Allowoffline": false
+    }
 ]
